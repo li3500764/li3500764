@@ -1,17 +1,11 @@
-Hi there 👋 Here are some ideas to get you started:
+🚀 Web3 Fullstack Developer | Go & Smart Contract Specialist
+🔧 Core Stack:
+- 后端: Go (Gin/Echo) | Rust (入门)
+- 区块链: Solidity | Hardhat | Foundry
+- 前端: React | Ethers.js | Web3.js
+- 工具链: Docker | Git | CI/CD
 
-🔭 I’m currently working on Hangzhou
-
-🌱 I’m currently learning front-end engineering skills,Ethers.js,Web3.js,solidity,react.
-
-👯 I’m looking to collaborate on Web3
-
-🤔 I’m looking for help with i need a Web3 to work
-
-💬 Ask me about ...
-
-📫 How to reach me: My twitter:@Bobobolili,My email:li3500764@gmail.com
-
-😄 Pronouns: interest
-
-⚡ Fun fact: xxxxxx
+📫 How to Reach Me:
+- Twitter: @Bobobolili
+- Email: li3500764@gmail.com
+- Discord: Bobobolili#6828
